@@ -1,4 +1,4 @@
-# Github App
+# Github App :brazil:
 
 Projeto desenvolvido no primeiro módulo do curso React.js Ninja - React Completo, disponibilizado por Fernando Daciuk na plataforma Udemy. Consiste numa aplicação que utiliza o Ajax integrado ao React.js para fazer requisições na API do Github e retornar dados do usuário buscado, como por exemplos os repositórios do mesmo, com link integrado.
 
@@ -16,7 +16,7 @@ Projeto desenvolvido no primeiro módulo do curso React.js Ninja - React Complet
   <li>Ajax</li>
 </ul>
 
-## Instalação
+## Instalação :rocket:
 
 Para rodar o projeto basta utilizar o comando <i>npm install</i> para instalar todas as dependências, e então rodar o projeto com <i>npm start</i>
 
