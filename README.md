@@ -4,7 +4,7 @@ Projeto desenvolvido no primeiro módulo do curso React.js Ninja - React Complet
 
 <hr>
 <p align="center">
-  <img width="1000px" src="" />
+  <img width="1000px" src="https://github.com/ChristopherHauschild/GitHubApp-React.js/blob/master/GithubApp.gif?raw=true" />
 </p>
 
 ## Linguagens e tecnologias utilizadas: :computer:
@@ -22,6 +22,6 @@ Para rodar o projeto basta utilizar o comando <i>npm install</i> para instalar t
 
 <hr>
 
-O repositório original do curso pode ser encontrado <a href="">aqui</a>. O curso está disponível em https://www.udemy.com/course/curso-reactjs-ninja/
+O repositório original do curso, de autoria do Fernando Daciuk, pode ser encontrado <a href="https://github.com/da2k/curso-reactjs-ninja">aqui</a>. O curso está disponível em https://www.udemy.com/course/curso-reactjs-ninja/
 
 Desenvolvido com horas a frente do :computer: por Christopher H. Schott
