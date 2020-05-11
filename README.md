@@ -20,7 +20,7 @@ Projeto desenvolvido no primeiro módulo do curso React.js Ninja - React Complet
 
 Para rodar o projeto basta utilizar o comando <i>npm install</i> para instalar todas as dependências, e então rodar o projeto com <i>npm start</i>
 
-### Demais atividades e aplicações desenvolvidas no curso:
+### Demais atividades e aplicações desenvolvidas no curso: :pencil:
 
 Conteúdo disponível a partir deste <a href="https://github.com/ChristopherHauschild/curso-react-ninja">link</a>
 
