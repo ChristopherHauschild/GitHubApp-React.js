@@ -1,0 +1,9 @@
+@charset 'utf-8';
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(100deg, #716f70, #2f363d)
+}
