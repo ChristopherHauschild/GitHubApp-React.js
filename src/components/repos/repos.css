@@ -1,17 +1,21 @@
 @charset 'utf-8';
 
-.repos-list h2 {
+.repos-list li {
+    padding: 10px 0;
+  }
+
+.repos-list-container h2 {
     color: #fff;
     font-size: 1.8rem;
 }
 
-.repos-list ul li {
+.repos-list-container ul li {
     width: 100%;
     padding: 10px 0px;
     border-bottom: 1px solid #fff;
 }
 
-.repos-list ul li a {
+.repos-list-container ul li a {
     font-size: 1.5rem;
     color: #fff;
     text-decoration: none;

@@ -23,7 +23,6 @@ ul {
 
 .repos-container {
   display: flex;
-  justify-content: space-between;
   float: left;
   width: 100%;
 }
