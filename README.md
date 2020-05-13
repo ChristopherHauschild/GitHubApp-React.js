@@ -1,24 +1,37 @@
-# Workflow ReactJS
+# GitHub App :brazil:
 
-This workflow includes:
+Projeto desenvolvido durante o curso React.js Ninja - React Completo, disponibilizado por <a href="https://github.com/fdaciuk">Fernando Daciuk</a> na platafaforma Udemy. O curso visa a capacitação para atuar no mercado de trabalho com React.js, oferecendo conteúdos que visam trabalhar os fundamentos dessa biblioteca JS além do desenvolvimento de aplicações estruturadas com a mesma.
 
-1. Webpack;
-* Babel;
-* React hot loader;
-* HTML and CSS generated automatically by webpack
+Este projeto utiliza a API do GitHub para fazer requisições ajax e retornar dados do usuário buscado, como repositórios, favoritos e alguns dados básicos do perfil. Atualizado com o desenvolvimento em TDD do componente de paginação, a geração de HTML e CSS via Webpack e a implementação das histórias do componentes utilizando o Storybook.
 
-## Dependencies:
+<hr>
+<p align="center">
+  <img width="900px" src="https://github.com/ChristopherHauschild/GitHubApp-React.js/blob/master/GithubApp.gif?raw=true" />
+ </p>
 
-- `NodeJS >= 6`;
+## Linguagens e tecnologias utilizadas: :computer:
 
-## Up and running
+<ul list-style="none">
+  <li> HTML, CSS e JavaScript </li>
+  <li> React.js </li>
+  <li> Webpack </li>
+  <li> Storybook e Jest </li>
+  <li> Ajax </li>
+</ul>
 
-- Clone this repository: `git clone git@github.com:fdaciuk/workflow-reactjs.git`;
-- Remove `.git` directory;
-- Install dependencies: `npm i`;
-- Run `npm start` to develop on `http://localhost:3000`
-- Run `npm run build` for production build (files will be generated on `dist` directory)
 
-## License
+## Instalação: :rocket:
 
-[MIT](https://github.com/fdaciuk/licenses/blob/master/MIT-LICENSE.md) &copy; Fernando Daciuk
+- Clone este repositório: `https://github.com/ChristopherHauschild/GitHubApp-React.js/.git`;
+- Remova o diretório `.git`;
+- Instale as dependências: `npm i` ou `yarn`;
+- Rode `npm start` ou `yarn start` para desenvolvimento em `http://localhost:3000`
+- Rode `npm run build` ou `yarn build` para o build em produção (os arquivos serão gerados no diretório `dist`)
+
+### Maiores informações:
+
+O repositório do curso com as demais atividades e aplicações desenvolvidas pode ser acessado neste <a href="https://github.com/ChristopherHauschild/curso-react-ninja">link</a>. O curso está em disponível em: https://www.udemy.com/course/curso-reactjs-ninja/
+
+<hr>
+
+Desenvolvido com horas a frente do :computer: por Christopher H. Schott
